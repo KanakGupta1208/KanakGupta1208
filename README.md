@@ -21,7 +21,7 @@ I’m **Kanak Gupta**, a driven and detail-oriented **Full Stack MERN Developer*
 
 ### 💼 What I Bring to the Table
 - 🏆 **5x National Hackathon Finalist** — selected from thousands across top institutions like **MNNIT Allahabad**, **NIT Patna**, and **IIIT Surat**
-- 💻 Currently working as a **Software Engineer Intern** at **Tryidol Technologies**, contributing to live production systems and scalable backend services
+- 💻 Worked as a **Software Engineer Intern** at **Tryidol Technologies**, contributing to live production systems and scalable backend services
 - 🛠️ **50+ full-stack APIs** built from scratch with a focus on clean architecture, modularity, and scalability
 - 🌐 Delivered **high-impact web apps** used by **500+ real users**, featuring capabilities like **real-time chat**, **AI integrations**, and many more
 - 🎓 Achieved **Elite NPTEL Certification in Database Management Systems** from **IIT Kharagpur**
@@ -221,6 +221,7 @@ I'm always open to collaborations, internships, and freelance opportunities!
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=KanakGupta1208&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div> 
+
 
 
 
