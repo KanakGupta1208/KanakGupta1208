@@ -92,7 +92,7 @@ I’m always open to exciting collaborations, impactful internships, or full-tim
 - 🔒 Auth with JWT + full error handling  
 - 🔗 [GitHub Repo](https://github.com/KanakGupta1208/Talkify)
 
-### 🏢 languageExchange – Language learning Plateform
+### 🏢 LanguageExchange – Language learning Plateform
 
 - 🧑‍💼 Admin, Organizer, User roles with secure access  
 - 🔍 Event discovery, filtering, and registration  
@@ -221,5 +221,6 @@ I'm always open to collaborations, internships, and freelance opportunities!
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=KanakGupta1208&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div> 
+
 
 
